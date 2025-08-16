@@ -1,3 +1,12 @@
+Name - Pranav Vyas
+Roll no - 2025202015
+SSD Lab 2 MYSQL Activity
+
+---------------------------------------------------
+
+This assignment demonstrate the use of cursors and procedure calls in MYSQL for managing subscribers and watch history.
+It covers listing subscribers, retrieving watch history, avoiding duplicates, showing watch time report, etc.
+
 
 File Structure
 2025202015_lab2.zip
@@ -62,7 +71,7 @@ File Structure
     (6, 3, 2, 10),
     (7, 3, 1, 10); 
 
-3. Execute the following scripts.
+3. After executing the above scripts, run the following scripts in order.
     a. q1.sql
     b. q2.sql
     c. q3.sql
