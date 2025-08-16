@@ -34,7 +34,7 @@ File Structure
     );
 
     CREATE TABLE Subscribers (
-    SubscriberID INT PRIMARY KEY,
+    SubscriberID INT PRIMARY KEY AUTO_INCREMENT,
     SubscriberName VARCHAR(100),
     SubscriptionDate DATE
     );
